@@ -53,8 +53,8 @@ readRDS("mapa_elecciones_segundo.rds")
 readRDS("dinosaurioelectoral.rds")
 ```
 
-### Mapa 2do lugar por provincia 2011
+### Ausentismo 2016
 
 ```{r}
-readRDS("mapa_segundo_ganador_elecciones11.rds")
+knitr::include_graphics("mapa_ausentismo_peru.png")
 ```
